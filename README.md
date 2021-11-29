@@ -1,2 +1,2 @@
 
-live site: rejoanislam.netlify.app
+live site: https://rejoanislam.netlify.app
