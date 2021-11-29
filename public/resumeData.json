@@ -1,0 +1,159 @@
+{
+	"main": {
+		"name": "REJOAN ISLAM",
+		"occupation": "WEB DEVELOPER LIVING IN DHAKA, BANGLADESH. I MAKE WEB APPLICATIONS, USALLY WITH MERN and Django",
+		"description": "",
+		"image": "afridi.jpg",
+		"bio": "I am a full stack web developer with professional expertise in the field of web development with python and javascript. Currently i am studying in Computer Science & Engineering at Daffodil International University",
+		"contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+		"email": "rejoanafridi93@gmail.com",
+		"phone": "+8801641585416",
+		"address": {
+			"street": "Shymoli",
+			"city": "Dhaka",
+			"state": "Bangladesh",
+			"zip": "1207"
+		},
+		"website": "",
+		"resumedownload": "https://drive.google.com/file/d/1JKEtrlgJrAvEIbZrUsL4rmhTZSlfA9sp/view?usp=sharing",
+		"social": [
+			{
+				"name": "facebook",
+				"url": "https://www.facebook.com/rejoan.islam.afridi2/",
+				"className": "fa fa-facebook"
+			},
+			{
+				"name": "linkedin",
+				"url": "https://www.linkedin.com/in/rejoan-islam-afridi-42171416a/",
+				"className": "fa fa-linkedin"
+			},
+			{
+				"name": "instagram",
+				"url": "https://www.instagram.com/at_afridi/",
+				"className": "fa fa-instagram"
+			},
+			{
+				"name": "github",
+				"url": "https://github.com/rejoanafridi",
+				"className": "fa fa-github"
+			}
+		]
+	},
+	"resume": {
+		"skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+		"education": [
+			{
+				"school": "Daffodil International University",
+				"degree": "BSC in Computer Science",
+				"graduated": "April 2018 - April 2022",
+				"description": ""
+			}
+		],
+		"work": [
+			{
+				"company": "DIU CPC, Computer Programming Club",
+				"title": "Assistant General Secretary",
+				"years": "Jan 2020 - Dec 2020",
+				"description": ""
+			},
+			{
+				"company": "A-Shop",
+				"title": "A ecommerce website",
+				"years": "Nov 2020 - Jan 2021",
+				"description": ""
+			},
+			{
+				"company": "Ghurte - Jai",
+				"title": "A Travel Tour Agency",
+				"years": "Nov 2021",
+				"description": ""
+			},
+			{
+				"company": "Doctor-Care",
+				"title": "Health Care Services",
+				"years": "Oct 2021",
+				"description": ""
+			}
+		],
+		"skills": [
+			{
+				"name": "HTML",
+				"level": "95%"
+			},
+			{
+				"name": "CSS",
+				"level": "90%"
+			},
+			{
+				"name": "Bootstrap",
+				"level": "90%"
+			},
+			{
+				"name": "Git",
+				"level": "80%"
+			},
+			{
+				"name": "React",
+				"level": "78%"
+			},
+			{
+				"name": "Node Js",
+				"level": "75%"
+			},
+			{
+				"name": "MySql",
+				"level": "72%"
+			},
+			{
+				"name": "Tailwind",
+				"level": "65%"
+			},
+			{
+				"name": "MongoDb",
+				"level": "60%"
+			}
+		]
+	},
+	"portfolio": {
+		"projects": [
+			{
+				"title": "A-Shop",
+				"category": "Ecommerce site built with  HTML5 , CSS, javascript + Django",
+				"image": "ashop.jpg",
+				"url": "https://github.com/rejoanafridi/ASHOP"
+			},
+			{
+				"title": "Ghurte - Jai",
+				"category": "Travel tour agency with MERN Stack",
+				"image": "ghurtejai.png",
+				"url": "https://ghurtejai-1bcca.web.app/"
+			},
+			{
+				"title": "Doctor - Care",
+				"category": "Hospital Services built in with MERN Stack",
+				"image": "doctorcare.png",
+				"url": "https://doctor-care.netlify.app"
+			},
+			{
+				"title": "Todo",
+				"category": "todo app built with python, html & Django",
+				"image": "todo-app.jpg",
+				"url": "https://github.com/afridi01/Todo"
+			},
+			{
+				"title": "Translator App",
+				"category": "Translator app built with (py-translate + django)",
+				"image": "PyApp.jpg",
+				"url": "https://github.com/afridi01/Translator-app"
+			}
+		]
+	},
+	"testimonials": {
+		"testimonials": [
+			{
+				"text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+				"user": "Rejoan Islam"
+			}
+		]
+	}
+}
